@@ -18,10 +18,12 @@ Cara menjalankan program:
 # Screenshot Hasil <a name="result"></a>
 
 - Logika 1
-  ![](https://github.com/krisnasaputtra/finplan_test_backend/blob/main/img/query_1.png)
+  ![](https://github.com/krisnasaputtra/finplan_test_logika/blob/main/img/logika_1.png)
 - Logika 2
-  ![](https://github.com/krisnasaputtra/finplan_test_backend/blob/main/img/query_2_dan_hasil.png)
+  ![](https://github.com/krisnasaputtra/finplan_test_logika/blob/main/img/logika_2.png)
 - Logika 3
-  ![](https://github.com/krisnasaputtra/finplan_test_backend/blob/main/img/query_3_dan_hasil.png)
+  ![](https://github.com/krisnasaputtra/finplan_test_logika/blob/main/img/logika_3.png)
 - Logika 4
-  ![](https://github.com/krisnasaputtra/finplan_test_backend/blob/main/img/query_4_dan_hasil.png)
+  ![](https://github.com/krisnasaputtra/finplan_test_logika/blob/main/img/logika_4.png)
+- Logika 5
+  ![](https://github.com/krisnasaputtra/finplan_test_logika/blob/main/img/logika_5.png)
