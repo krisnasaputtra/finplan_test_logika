@@ -1,4 +1,4 @@
-# Test SQL Back End
+# Test Logika
 
 # Profile
 
